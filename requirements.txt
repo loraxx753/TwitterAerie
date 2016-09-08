@@ -1,0 +1,13 @@
+Django==1.10.1
+httplib2==0.9.2
+mock==2.0.0
+oauth2==1.9.0.post1
+oauthlib==2.0.0
+pbr==1.10.0
+python-firebase==1.2
+python-nest==2.9.4
+requests==2.11.1
+requests-oauthlib==0.6.2
+six==1.10.0
+sseclient==0.0.12
+tweepy==3.5.0
